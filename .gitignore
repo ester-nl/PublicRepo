@@ -1,0 +1,8 @@
+modeler-merge-marker
+.mendix-cache/*
+PublicRepoApp.mpr.lock
+*.launch
+deployment/*
+packages/*
+releases/*
+PublicRepoApp.mpr.bak
