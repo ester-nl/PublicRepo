@@ -6,3 +6,4 @@ deployment/*
 packages/*
 releases/*
 PublicRepoApp.mpr.bak
+project-settings.user.json
